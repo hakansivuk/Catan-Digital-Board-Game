@@ -13,7 +13,7 @@
 ## Technical Details
 
 * JavaFX is used for frontend. 
-* Node.js and Express is used for backend.
+* Node.js and Express are used for backend.
 * MongoDB is used for storing data.
 * For communication, http requests and socket-io library is used. Since it is a PvP game, socket-io library has an essential role in this project, especially for broadcasting.
 
