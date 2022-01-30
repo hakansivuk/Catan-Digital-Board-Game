@@ -10,6 +10,13 @@
 
 *Players gain resources by harvesting the sources denoted by the dice at the beginning of each turn. Nevertheless, when the number 7 is denoted by the dice, shenanigan happens as players having resource cards more than 7 discards half of their resources while the dice roller gets to disable a harvesting heaxgon on the board. Along with trading, Settlers of Catan offers players interesting gameplay. May the luckiest player with the best strategy win the game!*
 
+## Technical Details
+
+* JavaFX is used for frontend. 
+* Node.js and Express is used for backend.
+* MongoDB is used for storing data.
+* For communication, http requests and socket-io library is used. Since it is a PvP game, socket-io library has an essential role in this project, especially for broadcasting.
+
 ## **Team**
 
 * Cevat Aykan Sevinç, 21703201
